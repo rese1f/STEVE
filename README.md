@@ -1,1 +1,1 @@
-# <font color=BlueViolet >S</font>ee and <font color=BlueViolet >T</font>hink: <font color=BlueViolet >E</font>mbodied Agent in <font color=BlueViolet >V</font>irtual <font color=BlueViolet >E</font>nvironment
+# STEVE
