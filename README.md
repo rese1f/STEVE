@@ -1,2 +1,2 @@
-# STEVE
-coming soon.
+# STEVE Page
+Modified from [this repo](https://github.com/eliahuhorwitz/Academic-project-page-template).
