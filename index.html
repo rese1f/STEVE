@@ -130,22 +130,18 @@
 </section>
 
 
-<!-- Teaser video-->
+<!-- Teaser image-->
 <section class="hero teaser">
   <div class="container is-max-desktop">
-    <div class="hero-body">
-      <video poster="" id="tree" autoplay controls muted loop height="100%">
-        <!-- Your video here -->
-        <source src="static/videos/banner_video.mp4"
-        type="video/mp4">
-      </video>
+    <div class="item">
+      <img src="static/images/teaser.png" alt="Image Alt Text"/>
       <h2 class="subtitle has-text-centered">
         STEVE, named after the protagonist of the game Minecraft, is our proposed framework aims to build an embodied agent based on the vision model and LLMs within an open world.
       </h2>
     </div>
   </div>
 </section>
-<!-- End teaser video -->
+<!-- End teaser image -->
 
 <!-- Paper abstract -->
 <section class="section hero is-light">
@@ -164,107 +160,73 @@
 </section>
 <!-- End paper abstract -->
 
+<section class="section is-small">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered ">
+      <div class="column is-full">
+        <h2 class="title is-3">Framework</h2>
+        <div class="content has-text-justified">
+          <img src="static/images/framework.jpg" alt="MY ALT TEXT"/>
 
-<!-- Image carousel -->
-<section class="hero is-small">
-  <div class="hero-body">
-    <div class="container">
-      <div id="results-carousel" class="carousel results-carousel">
-       <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel1.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-          First image description.
-        </h2>
+          <p>
+            The Vision Perception part takes images or videos, encodes them into tokens, and combines them with the tokens of Agent State and Task as input. The STEVE-13B in the Language Instruction part is used for automatic reasoning and task decomposition, and it calls the Skill Database in the form of the Query to output code as action.
+          </p>
+        </div>
       </div>
-      <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel2.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-          Second image description.
-        </h2>
-      </div>
-      <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel3.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-         Third image description.
-       </h2>
-     </div>
-     <div class="item">
-      <!-- Your image here -->
-      <img src="static/images/carousel4.jpg" alt="MY ALT TEXT"/>
-      <h2 class="subtitle has-text-centered">
-        Fourth image description.
-      </h2>
     </div>
   </div>
-</div>
-</div>
 </section>
-<!-- End image carousel -->
 
+<section class="section hero is-light">
+  <div class="container is-full is-max-desktop">
+    <!-- <div class="columns is-centered has-text-centered"> -->
+    <div class="column content">
+      <h2 class="title is-3">STEVE-21K Collection Pipeline</h2>
+      <div class="content has-text-justified">
+        <img src="static/images/dataset.jpg" alt="MY ALT TEXT"/>
 
+        <p>
+          In the Vision-Environment section, STEVE-13B plays the game according to specified tasks defined by the human player, collecting visual information through prismarine-viewer and capturing environmental information from the screen using Ray Tracing. Note that during the collection phase, the language instruction task is also performed. We simultaneously record and save the chat flow from the reasoning and decomposition stages. In the Question-Answering section, we obtain information from the Minecraft-Wiki and Reddit forums, and use GPT-3.5 to clean the data into Single-round QA pairs. In the Skill-Code section, we use GPT-3.5 combined with the human player's code to synthesize code snippets, and then check and revise them in the game environment.
+        </p>
+      </div>
+      
+    </div>
+  </div>
+</section>
 
 
 <!-- Youtube video -->
-<section class="hero is-small is-light">
-  <div class="hero-body">
-    <div class="container">
-      <!-- Paper video. -->
-      <h2 class="title is-3">Video Presentation</h2>
-      <div class="columns is-centered has-text-centered">
-        <div class="column is-four-fifths">
-          
-          <div class="publication-video">
-            <!-- Youtube embed code here -->
-            <iframe src="https://www.youtube.com/embed/JkaxUblCGz0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<<section class="section is-small">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full">
+        <!-- Paper video. -->
+        <h2 class="title is-3">Demo Videos</h2>
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <div class="publication-video">
+              <!-- Youtube embed code here -->
+              <iframe src="https://www.youtube.com/embed/ccQbqie2p5w?si=xlvRKl8EdPuiRwwl" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</section>
-<!-- End youtube video -->
+    </div> 
 
 
-<!-- Video carousel -->
-<section class="hero is-small">
-  <div class="hero-body">
-    <div class="container">
-      <h2 class="title is-3">Another Carousel</h2>
-      <div id="results-carousel" class="carousel results-carousel">
-        <div class="item item-video1">
-          <video poster="" id="video1" autoplay controls muted loop height="100%">
-            <!-- Your video file here -->
-            <source src="static/videos/carousel1.mp4"
-            type="video/mp4">
-          </video>
-        </div>
-        <div class="item item-video2">
-          <video poster="" id="video2" autoplay controls muted loop height="100%">
-            <!-- Your video file here -->
-            <source src="static/videos/carousel2.mp4"
-            type="video/mp4">
-          </video>
-        </div>
-        <div class="item item-video3">
-          <video poster="" id="video3" autoplay controls muted loop height="100%">\
-            <!-- Your video file here -->
-            <source src="static/videos/carousel3.mp4"
-            type="video/mp4">
-          </video>
+      <div class="container is-max-desktop">
+        <!-- Paper video. -->
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <div class="publication-video">
+              <iframe src="https://www.youtube.com/embed/5bO0nvNv4ZM?si=MGg0Cu7mec0TDD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
+    <!-- </div> -->
   </div>
 </section>
-<!-- End video carousel -->
-
-
-
-
-
 
 <!-- Paper poster -->
 <!-- <section class="hero is-small is-light">
@@ -285,7 +247,14 @@
   <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
       <h2 class="title">BibTeX</h2>
-      <pre><code>BibTex Code Here</code></pre>
+      <pre><code>
+@article{zhao2023steve,
+title={See and Think: Embodied Agent in Virtual Environment},
+author={Zhao, Zhonghan and Chai, Wenhao and Wang, Xuan and Li, Boyi and Hao, Shengyu and Cao, Shidong and Ye, Tian and Hwang, Jenq-Neng and Wang, Gaoang},
+journal={arXiv preprint arXiv:},
+year={2023}
+}
+      </code></pre>
     </div>
 </section>
 <!--End BibTex citation -->
