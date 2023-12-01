@@ -1,4 +1,4 @@
-<img src="asset/logo.png" height="80px" align="right">
+<img src="asset/logo.png" height="120px" align="right">
 
 # <ins>S</ins>ee and <ins>T</ins>hink: <ins>E</ins>mbodied Agent in <ins>V</ins>irtual <ins>E</ins>nvironment
 
