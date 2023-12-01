@@ -3,17 +3,17 @@
 [![](http://img.shields.io/badge/cs.CV-arXiv%3A2307.16449-B31B1B.svg)](https://arxiv.org/abs/2311.15209)
 
 > **See and Think: Embodied Agent in Virtual Environment**  
-> Zhonghan Zhao<sup>♠️</sup>, Wenhao Chai<sup>♠️♥️</sup>, Xuan Wang^<sup>♠️</sup>, Li Boyi, Shengyu Hao, Shidong Cao, Tian Ye, Jenq-Neng Hwang, Gaoang Wang✉️   
+> Zhonghan Zhao<sup>♠️</sup>, Wenhao Chai<sup>♠️♥️</sup>, Xuan Wang<sup>♠️</sup>, Li Boyi, Shengyu Hao, Shidong Cao, Tian Ye, Jenq-Neng Hwang, Gaoang Wang✉️   
 > _arXiv 2023._  
-> <sup>♠️</sup> Equal contribution. <sup>♥️</sup> Project lead
+> <sup>♠️</sup> Equal contribution. <sup>♥️</sup> Project lead.
 
 STEVE, named after the protagonist of the game Minecraft, is our proposed framework aims to build an embodied agent based on the vision model and LLMs within an open world.
-
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 ## :fire: News
 * **[TBD]** : We will soon release our code, model weight, and dataset.
 * **[2023.11.26]** :page_with_curl: We release the [paper](https://arxiv.org/abs/2311.15209).
+
+<h3 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h3>
 
 ## 💡 Overview
 The Vision Perception part takes images or videos, encodes them into tokens, and combines them with the tokens of Agent State and Task as input. The STEVE-13B in the Language Instruction part is used for automatic reasoning and task decomposition, and it calls the Skill Database in the form of the Query to output code as action.
