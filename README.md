@@ -17,6 +17,7 @@ STEVE, named after the protagonist of the game Minecraft, is our proposed framew
 
 ## 💡 Overview
 The Vision Perception part takes images or videos, encodes them into tokens, and combines them with the tokens of Agent State and Task as input. The STEVE-13B in the Language Instruction part is used for automatic reasoning and task decomposition, and it calls the Skill Database in the form of the Query to output code as action.
+![](asset/overview.png)
 
 ## 📣 Demo Video
 
