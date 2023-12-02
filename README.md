@@ -22,12 +22,11 @@ The Vision Perception part takes images or videos, encodes them into tokens, and
 ![](asset/overview.png)
 
 ## 📣 Demo Video
-[![](https://img.youtube.com/vi/NzJEqhIbcZg/0.jpg)](https://www.youtube.com/embed/NzJEqhIbcZg?si=_flZME4YDfok4LVn)
-[![](https://img.youtube.com/vi/OWJDZGwephs/0.jpg)](https://www.youtube.com/embed/OWJDZGwephs?si=Vig4h99HPsNf95CP)
-[![](https://img.youtube.com/vi/sloqnCtx4kc/0.jpg)](https://www.youtube.com/embed/sloqnCtx4kc?si=eMj_bNEHlg0wg7Py)
-[![](https://img.youtube.com/vi/ziYueiXBP7A/0.jpg)](https://www.youtube.com/embed/ziYueiXBP7A?si=76TWzSlHsEeC7rv1)
-[![](https://img.youtube.com/vi/6riHoiocb8k/0.jpg)](https://www.youtube.com/embed/6riHoiocb8k?si=PJC6Plb8hQQohQgI)
-[![](https://img.youtube.com/vi/LualEoZ7EZQ/0.jpg)](https://www.youtube.com/embed/LualEoZ7EZQ?si=xWTxrJEnZeVRedEt)
+[![](https://img.youtube.com/vi/NzJEqhIbcZg/0.jpg)](https://www.youtube.com/embed/NzJEqhIbcZg?si=_flZME4YDfok4LVn)[![](https://img.youtube.com/vi/OWJDZGwephs/0.jpg)](https://www.youtube.com/embed/OWJDZGwephs?si=Vig4h99HPsNf95CP)
+
+[![](https://img.youtube.com/vi/sloqnCtx4kc/0.jpg)](https://www.youtube.com/embed/sloqnCtx4kc?si=eMj_bNEHlg0wg7Py)[![](https://img.youtube.com/vi/ziYueiXBP7A/0.jpg)](https://www.youtube.com/embed/ziYueiXBP7A?si=76TWzSlHsEeC7rv1)
+
+[![](https://img.youtube.com/vi/6riHoiocb8k/0.jpg)](https://www.youtube.com/embed/6riHoiocb8k?si=PJC6Plb8hQQohQgI)[![](https://img.youtube.com/vi/LualEoZ7EZQ/0.jpg)](https://www.youtube.com/embed/LualEoZ7EZQ?si=xWTxrJEnZeVRedEt)
 
 ## ✏️ Citation
 
