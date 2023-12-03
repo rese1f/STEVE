@@ -5,9 +5,8 @@
 [![](http://img.shields.io/badge/cs.CV-arXiv%3A2311.15209-B31B1B.svg)](https://arxiv.org/abs/2311.15209)
 
 > **See and Think: Embodied Agent in Virtual Environment**  
-> Zhonghan Zhao<sup>♠️</sup>, Wenhao Chai<sup>♠️♥️</sup>, Xuan Wang<sup>♠️</sup>, Li Boyi, Shengyu Hao, Shidong Cao, Tian Ye, Jenq-Neng Hwang, Gaoang Wang✉️   
-> _arXiv 2023._  
-> <sup>♠️</sup> Equal contribution. <sup>♥️</sup> Project lead.
+> Zhonghan Zhao*, Wenhao Chai*, Xuan Wang*, Li Boyi, Shengyu Hao, Shidong Cao, Tian Ye, Jenq-Neng Hwang, Gaoang Wang✉️   
+> _arXiv 2023_  
 
 [![](https://img.youtube.com/vi/WGP99R5UXq0/0.jpg)](https://www.youtube.com/embed/WGP99R5UXq0?si=i2LVxm3Mlw1F5WTZ)
 
