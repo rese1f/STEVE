@@ -1,0 +1,5 @@
+async function obtainThreeBirchLogs(bot) {
+    // async function obtainThreeBirchLogs(bot) {
+    // The function is about obtaining 3 birch logs from a chest. If the bot is not already near the chest, it uses `exploreUntil` to find a path to the chest. Then, it takes 3 birch logs from the chest using `getItemFromChest`. Finally, it returns to the starting position and sends a chat message indicating that it has obtained 3 birch logs.
+}
+}

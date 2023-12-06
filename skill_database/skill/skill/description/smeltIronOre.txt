@@ -1,0 +1,5 @@
+async function smeltIronOre(bot) {
+    // async function smeltIronOre(bot) {
+    // The function is about smelting 1 raw iron ore into 1 iron ingot using 1 coal as fuel. It first finds a suitable location to place the furnace, then places the furnace at the chosen location. Finally, it smelts the raw iron ore into an iron ingot using coal as fuel and outputs a message indicating that 1 iron ore has been smelted.
+}
+}

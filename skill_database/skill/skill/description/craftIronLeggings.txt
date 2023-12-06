@@ -1,0 +1,5 @@
+async function craftIronLeggings(bot) {
+    // async function craftIronLeggings(bot) {
+    // The function crafts a pair of iron leggings using 7 iron ingots. If there are not enough iron ingots in the inventory, the bot mines iron ores and smelts them to obtain the required amount. It then checks for a nearby crafting table and places one from the inventory if there isn't any. Finally, it crafts the iron leggings and sends a chat message.
+}
+}

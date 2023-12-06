@@ -1,0 +1,5 @@
+async function obtainWhiteWoolWithShearsV2(bot) {
+    // async function obtainWhiteWoolWithShears(bot) {
+    // The function is about obtaining white wool using shears. First, equip the shears in the hand. Next, find the nearest white sheep within 32 blocks. If a white sheep is found, use the shears on the sheep to obtain white wool. If no white sheep is found, output a message saying so.
+}
+}

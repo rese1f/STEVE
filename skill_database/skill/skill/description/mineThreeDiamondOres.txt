@@ -1,0 +1,5 @@
+async function mineThreeDiamondOres(bot) {
+    // async function mineThreeDiamondOres(bot) {
+    // The function is about mining 3 diamond ores using an iron pickaxe. The function equips the iron pickaxe and explores the underground area around level 12 until it finds 3 diamond ores. Once 3 diamond ores are found, the function mines them and outputs a message indicating that 3 diamond ores have been mined. If 3 diamond ores are not found, the function outputs a message indicating that it could not find 3 diamond ores.
+}
+}

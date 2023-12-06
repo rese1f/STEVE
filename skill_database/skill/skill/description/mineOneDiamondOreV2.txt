@@ -1,0 +1,5 @@
+async function mineOneDiamondOreV2(bot) {
+    // async function mineOneDiamondOre(bot) {
+    // The function is about mining a single diamond ore block using an iron pickaxe. First, the function equips the iron pickaxe. Then, it searches for a nearby diamond ore block. If it cannot find one, it explores the area until it finds one. Finally, it mines the diamond ore block using the iron pickaxe and reports the success or failure of the operation.
+}
+}

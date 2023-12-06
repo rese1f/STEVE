@@ -1,0 +1,5 @@
+async function mineFiveLapisOres(bot) {
+    // async function mineFiveLapisOres(bot) {
+    // The function is about mining 5 lapis ores using the best pickaxe available (stone, iron, or diamond). First, check if the bot has a stone, iron, or diamond pickaxe in its inventory. If so, equip the best pickaxe available. Next, explore the underground area until finding 5 lapis ores. Once 5 lapis ores are found, mine them using the equipped pickaxe.
+}
+}

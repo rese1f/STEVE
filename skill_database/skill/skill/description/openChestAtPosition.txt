@@ -1,0 +1,5 @@
+async function openChestAtPosition(bot) {
+    // async function openChestAtPosition(bot) {
+    // The function is about opening a chest at a specific position. First, it moves the bot to the chest position using `moveToChest` helper function. Then, it gets the chest block at the position and opens the container using `bot.openContainer`. After that, it waits for the chest to close using `closeChest` helper function. Finally, it sends a chat message indicating that the chest has been opened.
+}
+}

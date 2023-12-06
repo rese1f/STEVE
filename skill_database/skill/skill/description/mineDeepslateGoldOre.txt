@@ -1,0 +1,5 @@
+async function mineDeepslateGoldOre(bot) {
+    // async function mineDeepslateGoldOre(bot) {
+    // The function is about mining a single deepslate gold ore block using an iron pickaxe. First, equip the iron pickaxe in the hand. Next, find a nearby deepslate gold ore block or explore the area to find one. Once a deepslate gold ore block is found, mine it using the iron pickaxe. If the block is successfully mined, a message is sent to the chat. If the block is not found, a message is sent to the chat indicating that it could not be found.
+}
+}

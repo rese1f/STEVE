@@ -1,0 +1,5 @@
+async function mineThreeDiamondOresV2(bot) {
+    // async function mineThreeDiamondOres(bot) {
+    // The function is about mining 3 diamond ores using either an iron pickaxe or a diamond pickaxe. First, check if the bot has either an iron pickaxe or a diamond pickaxe in its inventory. If the bot has either pickaxe, equip it in the hand. Next, explore the underground area around level 12 until finding 3 diamond ores. Once 3 diamond ores are found, mine them using the equipped pickaxe.
+}
+}

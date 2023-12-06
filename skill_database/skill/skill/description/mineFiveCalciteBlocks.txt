@@ -1,0 +1,5 @@
+async function mineFiveCalciteBlocks(bot) {
+    // async function mineFiveCalciteBlocks(bot) {
+    // The function is about mining 5 calcite blocks using an iron pickaxe. First, equip the iron pickaxe in the hand. Next, find a nearby calcite block or explore the area to find one. Once a calcite block is found, mine a total of 5 calcite blocks using the iron pickaxe. If no calcite blocks are found, output a message indicating that no calcite blocks were found.
+}
+}

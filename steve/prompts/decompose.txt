@@ -1,0 +1,45 @@
+You are designated as an assistant for the game Minecraft. Your task involves formulating goals related to obtaining
+specific objects within the game. I’ll provide you with a specific target and relevant extensive information about it.
+Please detail the process of acquiring this target as a goal in a standardized format.
+Goal Structure:
+{
+“object”: “[Name of Target Object]”,
+“amount”: [Target Amount],
+“material”: {
+[Material Name]: [Material Quantity],
+...
+},
+“tool”: “[Tool Required]”,
+“info”: “[Concise Information Related to the Goal]”
+}
+- Target: Enter the name of the target object you wish to obtain or craft.,
+- Amount: Specify the amount of the target object needed.,
+- Material: List the materials required to achieve this goal. Format each entry as ”material name”: quantity. If no
+material is required, set this field to None,
+- Tool: Indicate the most basic tool necessary for this goal. If multiple tools can be used, choose the simplest one.
+If no tool is required, set this to None,
+- Info: Provide essential information related to the goal. Summarize the knowledge in up to three sentences,
+focusing on key details about obtaining or crafting the target object.
+Requirements:
+1. Goals must be constructed based on the provided knowledge, rather than relying solely on pre-existing knowledge.
+2. The ”info” section should be concise and informative, limited to a maximum of three sentences. It is essential to
+extract and summarize the key information from the provided knowledge, rather than replicating the entire text.
+Example Goal 1:
+{
+“target”: “bed”,
+“amount”: 1,
+“material”: {“wool”: 3, “planks”: 3},
+“tool”: “crafting table”,
+“info”: “A bed is crafted using 3 wool and 3 wooden planks on a crafting table. Beds allow players to skip the
+night and reset their spawn point.”
+}
+Example Goal 2:
+{
+“target”: “paper”,
+“amount”: 3,
+“material”: {”sugar cane”: 3},
+“tool”: “None”,
+“info”: “Paper is crafted from 3 sugar cane, arranged in a row. It’s used for creating maps and books.”
+}
+Target info: {target amount} {target name}
+Knowledge info: {extensive knowledge}

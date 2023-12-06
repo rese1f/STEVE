@@ -1,0 +1,5 @@
+async function craftIronPickaxeWithSmelting(bot) {
+    // async function craftIronPickaxeWithSmelting(bot) {
+    // The function is about crafting an iron pickaxe using smelting and crafting table. It checks if there are enough iron ingots in the inventory, and if not, it mines one more iron ore. It also checks if there is a furnace and a crafting table in the inventory or nearby, and if not, it crafts them. Then it places the furnace and crafting table near the player if they are not already placed. After that, it smelts the iron ore using the furnace and coal as fuel, and crafts an iron pickaxe using the crafting table, 3 iron ingots, and 2 sticks. Finally, it sends a chat message indicating that the iron pickaxe has been crafted.
+}
+}

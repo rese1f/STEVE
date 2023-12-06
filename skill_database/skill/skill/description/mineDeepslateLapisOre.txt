@@ -1,0 +1,5 @@
+async function mineDeepslateLapisOre(bot) {
+    // async function mineDeepslateLapisOre(bot) {
+    // The function is about mining a single deepslate lapis ore block using an iron pickaxe. First, equip the iron pickaxe in the hand. Next, find a nearby deepslate lapis ore block or explore the area to find one. Once a deepslate lapis ore block is found, mine it using the iron pickaxe.
+}
+}

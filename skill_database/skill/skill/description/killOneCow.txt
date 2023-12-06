@@ -1,0 +1,5 @@
+async function killOneCow(bot) {
+    // async function killOneCow(bot) {
+    // The function is about killing one cow using an iron pickaxe. It equips the iron pickaxe from the inventory and finds the nearest cow within 300 blocks. Once the cow is found, it is killed using the iron pickaxe and a message is sent to the chat indicating that one cow has been killed.
+}
+}

@@ -1,0 +1,5 @@
+async function mineTenCoalOres(bot) {
+    // async function mineTenCoalOres(bot) {
+    // The function is about mining 10 coal ores using an iron pickaxe. It first checks if there are 10 coal ores nearby, and if not, it explores the area to find them. Once 10 coal ores are found, it mines them using the iron pickaxe and sends a chat message indicating that 10 coal ores have been mined.
+}
+}

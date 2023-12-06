@@ -1,0 +1,5 @@
+async function obtainAmethystShard(bot) {
+    // async function obtainAmethystShard(bot) {
+    // The function is about obtaining 1 amethyst shard by exploring the underground area to find an amethyst geode and mining it using an iron pickaxe. If an amethyst geode is not found, the function will increase the exploration time and try again.
+}
+}

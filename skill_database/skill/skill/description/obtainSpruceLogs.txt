@@ -1,0 +1,5 @@
+async function obtainSpruceLogs(bot) {
+    // async function obtainSpruceLogs(bot) {
+    // The function is about obtaining 3 spruce logs. It explores the environment until it finds 3 spruce_log blocks within a certain distance. Once the blocks are found, it mines them and sends a message indicating that 3 spruce logs have been obtained. If the blocks are not found, it sends a message indicating that it could not find enough spruce logs.
+}
+}

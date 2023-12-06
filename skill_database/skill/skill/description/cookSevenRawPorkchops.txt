@@ -1,0 +1,5 @@
+async function cookSevenRawPorkchops(bot) {
+    // async function cookSevenRawPorkchops(bot) {
+    // The function is about cooking 7 raw porkchops using a furnace and coal as fuel. First, it checks if there is a furnace in the inventory or nearby. If not, it places one near the player. Then, it checks if there are 7 raw porkchops in the inventory. If not, it kills pigs to collect them. Finally, it smelts 7 raw porkchops using coal as fuel and saves the event of cooking 7 raw porkchops.
+}
+}

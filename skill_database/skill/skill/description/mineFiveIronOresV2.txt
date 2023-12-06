@@ -1,0 +1,5 @@
+async function mineFiveIronOresV2(bot) {
+    // async function mineFiveIronOres(bot) {
+    // The function is about mining 5 iron ore blocks using a stone pickaxe. The function equips the stone pickaxe and explores the environment until finding an iron ore block. Once an iron ore block is found, the function mines a total of 5 iron ore blocks using the stone pickaxe and sends a chat message indicating the successful mining.
+}
+}

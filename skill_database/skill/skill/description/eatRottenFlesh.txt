@@ -1,0 +1,5 @@
+async function eatRottenFlesh(bot) {
+    // async function eatRottenFlesh(bot) {
+    // The function equips the rotten flesh in the bot's hand and consumes it, then sends a chat message indicating that the rotten flesh has been consumed.
+}
+}

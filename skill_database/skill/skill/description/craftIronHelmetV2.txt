@@ -1,0 +1,5 @@
+async function craftIronHelmetV2(bot) {
+    // async function craftIronHelmet(bot) {
+    // The function crafts an iron helmet using 5 iron ingots. It checks if there are enough iron ingots in the inventory, and if not, it retrieves them from a nearby chest. It then checks if there is a crafting table nearby or in the inventory, and if not, it crafts one using oak planks. The function places the crafting table near the player if it's not already placed. Finally, it crafts an iron helmet using the crafting table and 5 iron ingots.
+}
+}

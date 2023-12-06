@@ -1,0 +1,5 @@
+async function mineOneIronOre(bot) {
+    // async function mineOneIronOre(bot) {
+    // The function is about mining one iron ore block using a stone pickaxe. First, equip the stone pickaxe in the hand. Then, find an iron ore block nearby. If not found, explore the area to find an iron ore block. Once an iron ore block is found, mine it using the stone pickaxe.
+}
+}

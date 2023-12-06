@@ -1,0 +1,5 @@
+async function mineOneLapisOreSafely(bot) {
+    // async function mineOneLapisOreSafely(bot) {
+    // The function is about mining one lapis ore block safely using an iron pickaxe. First, check if the bot's hunger is less than the maximum hunger. If so, check if the bot has enough food in the inventory. If not, find and kill a pig to obtain food and consume it to restore hunger. Equip the iron pickaxe and find a lapis ore block nearby or explore the area to find one. Finally, mine the lapis ore block using the iron pickaxe.
+}
+}

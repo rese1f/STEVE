@@ -1,0 +1,5 @@
+async function killOneCreeper(bot) {
+    // async function killOneCreeper(bot) {
+    // The function is about equipping an iron sword and killing one creeper. First, equip the iron sword in the hand. Next, explore the environment until finding a creeper within 32 blocks. Once a creeper is found, attack the creeper while maintaining a safe distance. Finally, the function will output a message indicating whether a creeper was killed or not.
+}
+}

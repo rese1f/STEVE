@@ -1,0 +1,5 @@
+async function obtainOakLogs(bot) {
+    // async function obtainOakLogs(bot) {
+    // The function is about obtaining 3 oak logs. It checks if there are already 3 oak logs in the inventory, and if so, it returns. If not, it calculates how many more logs are needed and mines them. Finally, it sends a message indicating that 3 oak logs have been obtained.
+}
+}
