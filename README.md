@@ -18,17 +18,17 @@ STEVE, named after the protagonist of the game Minecraft, is our proposed framew
 
 <h3 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h3>
 
-# Installation
+## Installation
 STEVE requires Python ≥ 3.9 and Node.js ≥ 16.13.0. We have tested on Ubuntu 20.04, Windows 11, and macOS. You need to follow the instructions below to install STEVE.
 
-## Python Install
+### Python Install
 ```
 git clone https://rese1f.github.io/STEVE/
 cd STEVE
 pip install -e .
 ```
 
-## Node.js Install
+### Node.js Install
 In addition to the Python dependencies, you need to install the following Node.js packages:
 ```
 cd STEVE/env/mineflayer
@@ -40,13 +40,13 @@ cd ..
 npm install
 ```
 
-## Fabric Mods Install
+### Fabric Mods Install
 
 You need to install fabric mods to support all the features in STEVE. Remember to use the correct Fabric version of all the mods. 
 
 Follow the instructions in [Fabric Mods Install](installation/fabric_mods_install.md) to install the mods.
 
-# Getting Started
+## Getting Started
 STEVE uses OpenAI's STEVE-7B/13B as the language model. You need to have STEVEenAI API key to use STEVE. You can get one from [here](https://platform.openai.com/account/api-keys).
 
 After the installation process, you can run STEVE by:
@@ -70,7 +70,7 @@ STEVE = STEVE(
 # start lifelong learning
 STEVE.learn()
 ```
-# Resume from a checkpoint during learning
+### Resume from a checkpoint during learning
 
 If you stop the learning process and want to resume from a checkpoint later, you can instantiate STEVE by:
 ```python
@@ -84,7 +84,7 @@ STEVE = STEVE(
 )
 ```
 
-# Run STEVE for a specific task with a learned skill library
+### Run STEVE for a specific task with a learned skill library
 
 If you want to run STEVE for a specific task with a learned skill library, you should first pass the skill library directory to STEVE:
 ```python
