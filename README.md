@@ -4,7 +4,7 @@
 
 <h3 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h3>
 
-## Installation
+## ✏️ Installation
 STEVE requires Python ≥ 3.9 and Node.js ≥ 16.13.0. We have tested on Ubuntu 20.04, Windows 11, and macOS. You need to follow the instructions below to install STEVE.
 
 ### Python Install
@@ -32,60 +32,7 @@ You need to install fabric mods to support all the features in STEVE. Remember t
 
 Follow the instructions in [Fabric Mods Install](installation/fabric_mods_install.md) to install the mods.
 
-## Getting Started
-STEVE uses OpenAI's STEVE-7B/13B as the language model. You need to have STEVEenAI API key to use STEVE. You can get one from [here](https://platform.openai.com/account/api-keys).
-
-After the installation process, you can run STEVE by:
-```python
-from STEVE import STEVE
-
-# You can also use mc_port instead of azure_login, but azure_login is highly recommended
-azure_login = {
-    "client_id": "YOUR_CLIENT_ID",
-    "redirect_url": "https://127.0.0.1/auth-response",
-    "secret_value": "[OPTIONAL] YOUR_SECRET_VALUE",
-    "version": "fabric-loader-0.14.18-1.19", # the version STEVE is tested on
-}
-openai_api_key = "YOUR_API_KEY"
-
-STEVE = STEVE(
-    azure_login=azure_login,
-    openai_api_key=openai_api_key,
-)
-
-# start lifelong learning
-STEVE.learn()
-```
-### Resume from a checkpoint during learning
-
-If you stop the learning process and want to resume from a checkpoint later, you can instantiate STEVE by:
-```python
-from STEVE import STEVE
-
-STEVE = STEVE(
-    azure_login=azure_login,
-    openai_api_key=openai_api_key,
-    ckpt_dir="YOUR_CKPT_DIR",
-    resume=True,
-)
-```
-
-### Run STEVE for a specific task with a learned skill library
-
-If you want to run STEVE for a specific task with a learned skill library, you should first pass the skill library directory to STEVE:
-```python
-from STEVE import STEVE
-
-# First instantiate STEVE with skill_database_dir.
-STEVE = STEVE(
-    azure_login=azure_login,
-    openai_api_key=openai_api_key,
-    skill_database_dir="./skill_datbase/skill",  
-    ckpt_dir="YOUR_CKPT_DIR", 
-    resume=False,  
-)
-```
-Then, you can run task decomposition. Notice: Occasionally, the task decomposition may not be logical. If you notice the printed sub-goals are flawed, you can rerun the decomposition.
+You can run task decomposition. Notice: Occasionally, the task decomposition may not be logical. If you notice the printed sub-goals are flawed, you can rerun the decomposition.
 ```python
 # Run task decomposition
 task = "YOUR TASK" # e.g. "Craft a diamond pickaxe"
