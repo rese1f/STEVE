@@ -2,20 +2,6 @@
 
 # <ins>S</ins>ee and <ins>T</ins>hink: <ins>E</ins>mbodied Agent in <ins>V</ins>irtual <ins>E</ins>nvironment
 
-[![](http://img.shields.io/badge/cs.CV-arXiv%3A2311.15209-B31B1B.svg)](https://arxiv.org/abs/2311.15209)
-
-> **See and Think: Embodied Agent in Virtual Environment**  
-> Zhonghan Zhao*, Wenhao Chai*, Xuan Wang*, Li Boyi, Shengyu Hao, Shidong Cao, Tian Ye, Jenq-Neng Hwang, Gaoang Wang✉️   
-> _arXiv 2023_  
-
-[![](https://img.youtube.com/vi/WGP99R5UXq0/0.jpg)](https://www.youtube.com/embed/WGP99R5UXq0?si=i2LVxm3Mlw1F5WTZ)
-
-STEVE, named after the protagonist of the game Minecraft, is our proposed framework aims to build an embodied agent based on the vision model and LLMs within an open world.
-
-## :fire: News
-* **[2023.12.06]** : We release our code at [code-v0 branch](https://github.com/rese1f/STEVE/tree/code-v0).
-* **[2023.11.26]** :page_with_curl: We release the [paper](https://arxiv.org/abs/2311.15209).
-
 <h3 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h3>
 
 ## Installation
