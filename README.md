@@ -13,7 +13,7 @@
 STEVE, named after the protagonist of the game Minecraft, is our proposed framework aims to build an embodied agent based on the vision model and LLMs within an open world.
 
 ## :fire: News
-* **[TBD]** : We will soon release our code, model weight, and dataset.
+* **[2023.12.06]** : We release our code at [code-v0 branch](https://github.com/rese1f/STEVE/tree/code-v0).
 * **[2023.11.26]** :page_with_curl: We release the [paper](https://arxiv.org/abs/2311.15209).
 
 <h3 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h3>
