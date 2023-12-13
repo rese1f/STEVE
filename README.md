@@ -4,6 +4,7 @@
 
 [![](http://img.shields.io/badge/cs.CV-arXiv%3A2311.15209-B31B1B.svg)](https://arxiv.org/abs/2311.15209)
 [![](https://img.shields.io/badge/code-code_v0-blue)](https://github.com/rese1f/STEVE/tree/code-v0)
+[![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-orange)](https://huggingface.co/SeeThink/STEVE-13b)
 
 > **See and Think: Embodied Agent in Virtual Environment**  
 > Zhonghan Zhao*, Wenhao Chai*, Xuan Wang*, Li Boyi, Shengyu Hao, Shidong Cao, Tian Ye, Jenq-Neng Hwang, Gaoang Wang✉️   
