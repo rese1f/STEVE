@@ -42,6 +42,10 @@ Finally, you can run the sub-goals with the learned skill library:
 ```python
 STEVE.inference(sub_goals=sub_goals)
 ```
+### STEVE-7B/13B
+
+STEVE-7B and STEVE-13B are robust language models derived from the LLaMA-2 series, meticulously fine-tuned for Minecraft-related content sourced from the STEVE-20K dataset. Pretrained model weights can be acquired via the following link: https://huggingface.co/SeeThink.
+
 ## ✏️ Citation
 
 If you find STEVE useful for your your research and applications, please cite using this BibTeX:
