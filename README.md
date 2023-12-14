@@ -44,7 +44,7 @@ STEVE.inference(sub_goals=sub_goals)
 ```
 ### STEVE-7B/13B
 
-STEVE-7B and STEVE-13B are robust language models derived from the LLaMA-2 series, meticulously fine-tuned for Minecraft-related content sourced from the STEVE-20K dataset. Pretrained model weights can be acquired via the following link: https://huggingface.co/SeeThink.
+STEVE-7B and STEVE-13B are powerful language models derived from the LLaMA-2 seriesfine-tuned specifically on Minecraft-related content from the STEVE-20K dataset. Pretrained model weights can be acquired via the following link: https://huggingface.co/SeeThink.
 
 ## ✏️ Citation
 
