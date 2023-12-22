@@ -1,0 +1,5 @@
+async function mineOneRedstoneOre(bot) {
+    // async function mineOneRedstoneOre(bot) {
+    // The function is about mining a single redstone ore block using an iron pickaxe. First, the function equips the iron pickaxe. Then, it explores the area below layer 16 to find a redstone ore block. Once the redstone ore block is found, the function mines it using the iron pickaxe and outputs a message indicating that one redstone ore block has been mined. If the redstone ore block is not found, the function outputs a message indicating that it could not find a redstone ore block.
+}
+}

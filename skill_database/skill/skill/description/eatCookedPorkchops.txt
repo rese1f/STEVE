@@ -1,0 +1,5 @@
+async function eatCookedPorkchops(bot) {
+    // async function eatCookedPorkchops(bot) {
+    // The function is about eating 3 cooked porkchops. The function equips the cooked porkchop in the bot's hand and consumes it three times. After consuming three cooked porkchops, the function sends a chat message indicating that 3 cooked porkchops have been eaten.
+}
+}

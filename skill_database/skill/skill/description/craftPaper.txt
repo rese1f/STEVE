@@ -1,0 +1,5 @@
+async function craftPaper(bot) {
+    // async function craftPaper(bot) {
+    // The function is about crafting 3 paper using sugar canes. First, it checks if there are enough sugar canes in the inventory, and if not, it explores the area to find more sugar canes and mines them. Then, it checks if there is a crafting table nearby or in the inventory, and if not, it crafts a crafting table using the oak_log in the inventory. Next, it finds a suitable position to place the crafting table if it's not already placed. Finally, it places the crafting table at the suitable position and crafts 3 paper using the sugar canes.
+}
+}

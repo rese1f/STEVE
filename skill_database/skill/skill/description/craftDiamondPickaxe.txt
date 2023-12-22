@@ -1,0 +1,5 @@
+async function craftDiamondPickaxe(bot) {
+    // async function craftDiamondPickaxe(bot) {
+    // The function crafts a diamond pickaxe using a crafting table, 3 diamonds, and 2 sticks. It first checks if there is a crafting table in the inventory or nearby, and if not, crafts one using oak planks. Then it places the crafting table near the player if it's not already placed. Finally, it crafts a diamond pickaxe using the crafting table and announces the successful crafting in the chat.
+}
+}

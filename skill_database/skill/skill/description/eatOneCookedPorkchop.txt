@@ -1,0 +1,5 @@
+async function eatOneCookedPorkchop(bot) {
+    // async function eatOneCookedPorkchop(bot) {
+    // The function is about eating a cooked porkchop if it exists in the bot's inventory. If the cooked porkchop is available, it will be equipped in the main hand and consumed. If there is no cooked porkchop in the inventory, the bot will send a message saying so.
+}
+}

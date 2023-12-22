@@ -1,0 +1,5 @@
+async function craftWoodenShovel(bot) {
+    // async function craftWoodenShovel(bot) {
+    // The function crafts a wooden shovel using oak planks and sticks. It first checks if there is a crafting table in the inventory, and if not, crafts one. Then it places the crafting table near the player. Next, it checks if there are enough oak planks and sticks in the inventory, and if not, crafts them. Finally, it crafts a wooden shovel using the oak planks and sticks, and sends a chat message indicating that the wooden shovel has been crafted.
+}
+}

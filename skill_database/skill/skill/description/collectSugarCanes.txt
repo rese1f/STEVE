@@ -1,0 +1,5 @@
+async function collectSugarCanes(bot) {
+    // async function collectSugarCanes(bot) {
+    // The function is about collecting 3 sugar canes blocks nearby. It searches for 3 sugar cane blocks within a maximum distance of 32 blocks. If it finds at least 3 sugar cane blocks, it mines them and sends a message to the chat indicating that 3 sugar canes have been collected. If it cannot find enough sugar canes nearby, it sends a message to the chat indicating that it could not find enough sugar canes.
+}
+}

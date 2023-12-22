@@ -1,0 +1,5 @@
+async function sleepInWhiteBed(bot) {
+    // async function sleepInWhiteBed(bot) {
+    // The function is about finding a suitable position to place a white bed and sleeping in it. It first finds a suitable position to place the bed and places the white bed at that position. Then, it sleeps in the bed and sends a message to the chat that it has slept in the white bed.
+}
+}

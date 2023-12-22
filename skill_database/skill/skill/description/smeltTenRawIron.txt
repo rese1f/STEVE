@@ -1,0 +1,5 @@
+async function smeltTenRawIron(bot) {
+    // async function smeltTenRawIron(bot) {
+    // The function is about smelting 10 raw iron using coal as fuel. It checks if there is a furnace nearby, and if not, places one from the inventory. Then it smelts 10 raw iron using coal as fuel and saves the event of smelting 10 raw iron.
+}
+}

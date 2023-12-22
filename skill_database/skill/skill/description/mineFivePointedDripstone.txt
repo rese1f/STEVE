@@ -1,0 +1,5 @@
+async function mineFivePointedDripstone(bot) {
+    // async function mineFivePointedDripstone(bot) {
+    // The function is about mining 5 pointed dripstone blocks using an iron pickaxe. First, equip the iron pickaxe in the hand. Next, find a pointed dripstone block nearby or explore the area to find one. Once a pointed dripstone block is found, mine a total of 5 pointed dripstone blocks using the iron pickaxe. If no pointed dripstone blocks are found, output a message indicating that they could not be found.
+}
+}

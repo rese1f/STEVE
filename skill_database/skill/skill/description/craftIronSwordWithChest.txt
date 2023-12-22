@@ -1,0 +1,5 @@
+async function craftIronSwordWithChest(bot) {
+    // async function craftIronSwordWithChest(bot) {
+    // The function crafts an iron sword using 2 iron ingots and 1 stick. If the required items are not in the inventory, the bot retrieves them from a chest. If there is no crafting table nearby, the bot crafts one using oak planks. The bot places the crafting table near the player if it's not already placed. Finally, the bot crafts an iron sword using the crafting table and the required items.
+}
+}

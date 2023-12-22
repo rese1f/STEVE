@@ -1,0 +1,5 @@
+async function mineOneDeepslateDiamondOre(bot) {
+    // async function mineOneDeepslateDiamondOre(bot) {
+    // The function is about mining one deepslate diamond ore using a diamond pickaxe. The function equips the diamond pickaxe and explores the underground area around level 12 until it finds a deepslate diamond ore block. Once found, the function mines the deepslate diamond ore block and outputs a message indicating that one deepslate diamond ore has been mined. If the block is not found, the function outputs a message indicating that it could not find the block.
+}
+}

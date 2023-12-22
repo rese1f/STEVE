@@ -1,0 +1,5 @@
+async function mineDeepslateDiamondOre(bot) {
+    // async function mineDeepslateDiamondOre(bot) {
+    // The function is about mining a single deepslate diamond ore block using a diamond pickaxe. First, equip the diamond pickaxe in the hand. Next, find a nearby deepslate diamond ore block or explore the area to find one. Once a deepslate diamond ore block is found, mine it using the diamond pickaxe.
+}
+}

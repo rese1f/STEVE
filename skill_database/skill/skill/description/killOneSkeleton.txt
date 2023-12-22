@@ -1,0 +1,5 @@
+async function killOneSkeleton(bot) {
+    // async function killOneSkeleton(bot) {
+    // The function is about killing one skeleton using an iron pickaxe. It equips the iron pickaxe from the inventory and finds the nearest skeleton within 300 blocks. Once the skeleton is found, it kills it using the iron pickaxe and outputs a message indicating that one skeleton has been killed.
+}
+}

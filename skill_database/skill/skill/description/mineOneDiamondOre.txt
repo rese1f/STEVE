@@ -1,0 +1,5 @@
+async function mineOneDiamondOre(bot) {
+    // async function mineOneDiamondOre(bot) {
+    // The function is about mining a single diamond ore block using an iron pickaxe. The function equips the iron pickaxe and explores the underground area around level 12 until it finds a diamond ore block. Once found, the function mines the diamond ore block and outputs a message indicating that one diamond ore block has been mined. If the diamond ore block is not found, the function outputs a message indicating that it could not find diamond ore.
+}
+}

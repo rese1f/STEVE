@@ -1,0 +1,5 @@
+async function craftIronHelmetWithSuitablePosition(bot) {
+    // async function craftIronHelmetWithSuitablePosition(bot) {
+    // The function is about crafting an iron helmet using a crafting table and 5 iron ingots. First, it checks if there is a crafting table in the inventory or nearby. If not, it crafts a crafting table using oak planks. Then, it finds a suitable position to place the crafting table and places it there. After that, it crafts an iron helmet using the crafting table and 5 iron ingots. Finally, it sends a chat message indicating that the iron helmet has been crafted.
+}
+}

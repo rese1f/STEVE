@@ -1,0 +1,5 @@
+async function mineTenRedstoneOres(bot) {
+    // async function mineTenRedstoneOres(bot) {
+    // The function is about mining 10 redstone ore blocks using an iron pickaxe. First, equip the iron pickaxe in the hand. Next, explore the environment below layer 16 until finding 10 redstone ore blocks. Once 10 redstone ore blocks are found, mine them using the iron pickaxe. If 10 redstone ore blocks are not found, output a message indicating that they could not be found.
+}
+}

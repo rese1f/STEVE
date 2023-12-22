@@ -1,0 +1,5 @@
+async function craftIronLeggingsWithSmelting(bot) {
+    // async function craftIronLeggingsWithSmelting(bot) {
+    // The function crafts iron leggings using 7 iron ingots. If there are not enough iron ingots in the inventory, it gets them from a chest and smelts them using a furnace and coal as fuel. If there is no furnace nearby, it crafts one using cobblestone. If there is no crafting table nearby, it crafts one using oak planks. Finally, it crafts the iron leggings using the crafting table and places it near the player.
+}
+}

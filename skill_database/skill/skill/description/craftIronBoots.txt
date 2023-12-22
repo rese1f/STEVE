@@ -1,0 +1,5 @@
+async function craftIronBoots(bot) {
+    // async function craftIronBoots(bot) {
+    // The function crafts a pair of iron boots. It checks if there are enough iron ingots in the inventory, and if not, it retrieves them from a nearby chest. It then checks if there is a crafting table nearby or in the inventory, and if not, it crafts one using oak planks. The function places the crafting table near the player if it's not already placed. Finally, it crafts iron boots using the crafting table and 4 iron ingots.
+}
+}

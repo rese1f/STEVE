@@ -1,0 +1,5 @@
+async function findCookAndEatChicken(bot) {
+    // async function findCookAndEatChicken(bot) {
+    // The function is about finding and eating cooked chicken. If the bot already has cooked chicken, it will eat it. Otherwise, it will check if there is raw chicken in the inventory or in a nearby chest. If there is no raw chicken, it will explore the area to find and kill a chicken. Once raw chicken is obtained, it will be cooked into cooked chicken using a furnace. If cooked chicken is available, it will be eaten, otherwise, it will output a message saying that there is no cooked chicken available.
+}
+}

@@ -1,0 +1,5 @@
+async function collectAlliumWithShears(bot) {
+    // async function collectAlliumWithShears(bot) {
+    // The function is about collecting an allium flower using shears. It first finds an allium flower nearby and goes near it. Then, it equips the shears and uses them to collect the allium flower. Finally, it sends a chat message indicating that 1 allium has been collected.
+}
+}

@@ -1,0 +1,5 @@
+async function eatCookedChicken(bot) {
+    // async function eatCookedChicken(bot) {
+    // The function is about eating a cooked chicken if it exists in the bot's inventory. If the bot has at least 1 cooked chicken, it will equip it in the main hand and consume it. Otherwise, it will output a message saying that there is no cooked chicken in the inventory.
+}
+}
