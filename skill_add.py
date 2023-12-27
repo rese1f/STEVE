@@ -8,8 +8,8 @@ add_dir_1 = './skill_database/trialn2'
 add_dir_2 = './skill_database/trialn3'
 final_dir = './skill_database/trial_add'
 
-os.environ["OPENAI_API_KEY"] = "sk-QibyovqQgrYIBEIYwAc5bcquc3rMHKUQLNQZPHueOf91qAwZ"
-os.environ["OPENAI_API_BASE"] = "https://api.aiproxy.io/v1"
+os.environ["OPENAI_API_KEY"] = "openai_api_key"
+os.environ["OPENAI_API_BASE"] = "openai_api_base"
 vectordb = Chroma(
             collection_name="skill_vectordb",
             embedding_function=OpenAIEmbeddings(),
