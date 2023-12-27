@@ -18,9 +18,8 @@ azure_login = {
     "secret_value": "HUc8Q~mE1uethY.4i-fLo3q0cvdgNBxPT-2A6bn_",
     "version": "fabric-loader-0.14.18-1.18",
 }
-openai_api_key = "sk-QibyovqQgrYIBEIYwAc5bcquc3rMHKUQLNQZPHueOf91qAwZ"
-# "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"/]\
-openai_api_base = "https://api.aiproxy.io/v1"
+os.environ["OPENAI_API_KEY"] = "openai_api_key"
+os.environ["OPENAI_API_BASE"] = "openai_api_base"
 mc_port = 49173
 # First instantiate STEVE with skill_database_dir.
 STEVE = STEVE(
